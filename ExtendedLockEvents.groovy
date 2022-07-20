@@ -70,7 +70,7 @@ def enableLogging = [
 ]
 
 preferences {
-	page(name: "mainPage", title: "<b>Extened Lock Events</b>", install: true, uninstall: true) {
+	page(name: "mainPage", title: "<b>Extended Lock Events</b>", install: true, uninstall: true) {
 		section("") {
             paragraph "Select a lock to monitor and rules to run on extended events."
 			input lock
