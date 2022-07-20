@@ -1,5 +1,5 @@
-// Derived from code provided by Russ Vrolyk
-// This app add functionnality that was missing from Rule Machine: the ability to run an action when a lock is locked specifically by keypad (from outside)
+// Derived from code provided by Russ Vrolyk - https://github.com/rvrolyk
+// This app adds functionnality that was missing from Rule Machine: the ability to run an action when a lock is locked specifically by keypad (from outside)
 // https://community.hubitat.com/t/lock-code-condition/16022
 // https://community.hubitat.com/t/rule-machine-request-locked-manually-vs-keypad/5946
 //
