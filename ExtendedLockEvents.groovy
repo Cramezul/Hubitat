@@ -74,7 +74,7 @@ preferences {
 		section("") {
             paragraph "Select a lock to monitor and rules to run on extended events."
 			input lock
-			input keypadRule
+            input keypadRule
             input manualRule
             input digitalRule
 			label title: "Assign an app name", required: false
